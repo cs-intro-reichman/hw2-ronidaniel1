@@ -2,7 +2,7 @@ public class Cheers {
 
      
     // כדי לבדוק את רשימת האותיות המשתמשות ב-"an" במקום "a" נשתמש במחרוזת שקל לבדוק מולה באמצעות indexOf()
-    private static final String AN_LETTERS = "AEF HILMN RSX";
+    private static final String AN_LETTERS = "AEF HILMN ORSX";
 
     // פונקציה לבדיקה אם יש להשתמש ב-"an" עבור תו נתון
     public static String getAOrAn(char ch) {
