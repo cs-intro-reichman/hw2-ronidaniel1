@@ -16,7 +16,6 @@ public class Cheers {
             return "a ";
         }
     }
-
     public static void main(String[] args) {
   
         //  קליטת מחרוזת הקלט והמרתה מיידית לאותיות גדולות כנדרש
@@ -34,7 +33,7 @@ public class Cheers {
             String aOrAn = getAOrAn(currentLetter);
             
             
-            System.out.print("Give me " + aOrAn + " " + currentLetter + ":");
+            System.out.print("Give me " + aOrAn + " " + currentLetter + ": ");
             
             
             System.out.println(currentLetter + "!");
