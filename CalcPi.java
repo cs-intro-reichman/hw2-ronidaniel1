@@ -33,6 +33,6 @@ public class CalcPi {
         System.out.println("pi according to Java: " + Math.PI);  
 
         // הדפסת הכותרת לקירוב
-        System.out.println("pi, approximated:	 " + piApproximation);
+        System.out.println(piApproximation);
     }
 }
