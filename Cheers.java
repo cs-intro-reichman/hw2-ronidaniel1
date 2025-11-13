@@ -13,7 +13,7 @@ public class Cheers {
         if (AN_LETTERS.indexOf(upperCaseCh) != -1) {
             return "an";
         } else {
-            return "a";
+            return "a ";
         }
     }
 
